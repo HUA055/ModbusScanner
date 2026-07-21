@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# PyInstaller 中间文件
+*.pyz
+*.pkg
+*.toc
